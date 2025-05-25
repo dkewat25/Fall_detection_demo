@@ -1,4 +1,4 @@
-# 🧠 Fall Detection System using KFall Dataset
+#  Fall Detection System using KFall Dataset
 
 This repository contains a complete fall detection system using machine learning on wearable sensor data from the [KFall dataset](https://www.kaggle.com/datasets/usmanabbasi2002/kfall-dataset?resource=download). It extracts features from accelerometer, gyroscope, and orientation data to detect fall events using a Support Vector Machine (SVM) classifier.
 
